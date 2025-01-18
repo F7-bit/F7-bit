@@ -30,6 +30,9 @@ A SQL-based project focusing on movie rental shop data. I utilize SQL queries to
 - Build impactful data visualization tools
 - Develop a well-rounded portfolio of data-driven projects
 
+## Fun Fact⚡
+I love exploring the intersection of data and storytelling, using insights to craft narratives that drive decisions
+
 Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaborations in mind!
 
 
