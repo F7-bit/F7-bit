@@ -26,6 +26,4 @@ I’m also working on an Excel-based project to create a dynamic coffee sales da
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaborations in mind!
 
----
 
-Let me know if you'd like to adjust any details!
