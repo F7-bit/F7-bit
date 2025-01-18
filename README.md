@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate data enthusiast currently focused on refining my skills in data analysis and MySQL. My journey includes working on multiple projects, with a strong emphasis on building robust dashboards and analyzing data for meaningful insights.
+I'm a passionate data enthusiast currently focused on refining my skills in data analysis. My journey includes working on multiple projects, with a strong emphasis on building robust dashboards and analyzing data for meaningful insights.
 
 ## Projects 🚀
 
@@ -20,7 +20,7 @@ I’m also working on an Excel-based project to create a dynamic coffee sales da
 
 ## Goals 🎯
 
-- Enhance my proficiency in MySQL and data manipulation
+- Enhance my proficiency in data analytics and data manipulation
 - Build impactful data visualization tools
 - Develop a well-rounded portfolio of data-driven projects
 
