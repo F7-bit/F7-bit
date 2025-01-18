@@ -1,7 +1,3 @@
-Sure! Here’s a professional and concise profile README that introduces you and your ongoing projects:
-
----
-
 # Hello! I'm Fahed 👋
 
 Welcome to my GitHub profile!
