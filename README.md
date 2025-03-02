@@ -1,38 +1,51 @@
-# Hello! I'm Fahed 👋
+# 👋 Hello! I'm Fahed  
+Welcome to my GitHub profile! 🚀  
 
-Welcome to my GitHub profile!
+I'm a **passionate data enthusiast** focused on refining my skills in **data analysis, SQL, and dashboard creation**. My journey involves working on multiple projects that transform raw data into meaningful insights.  
 
-I'm a passionate data enthusiast currently focused on refining my skills in data analysis. My journey includes working on multiple projects, with a strong emphasis on building robust dashboards and analyzing data for meaningful insights.
+---
 
-## Projects 🚀
+## 📌 Projects  
+### 🌐 SocialEngage-Analytics  
+A self-guided **MySQL** project analyzing user engagement data from social platforms. Using advanced queries, I extract actionable insights to optimize reporting and decision-making.  
 
-### **[SocialMediaEngagement](https://github.com/F7-bit/SocialMediaEngagement-Analytics)** 🌐
-This is a self-guided project that’s part of my data analysis training. Hosted on GitHub, it's an exploration of MySQL, where I’m analyzing user engagement data from social platform. I'm using advanced queries to extract actionable insights and optimize reporting.
+### ☕ Coffee Sales Dashboard  
+A **Excel-based** dynamic dashboard for coffee shop sales analysis. This project involves gathering sales data, visualizing trends, and helping stakeholders make data-driven decisions.  
 
-### **[CoffeeShopSales](https://github.com/F7-bit/CoffeeShopSales-Analytics)** ☕
-I’m also working on an Excel-based project to create a dynamic coffee sales dashboard. This project involves gathering data, visualizing trends, and creating an interactive dashboard for stakeholders to make better decisions.
+### 🛒 SupermarketSales-Analytics  
+A **Excel-powered** project analyzing supermarket sales data to uncover trends and generate key insights that drive business strategies.  
 
-### **[SupermarketSales](https://github.com/F7-bit/SupermarketSales-Analytics)** 🛒
-In this Excel-based project, I analyze supermarket sales data to uncover trends and provide key insights that can drive business strategies.
+### 🎥 Movie Rental Shop Analytics  
+A **SQL-based** project that explores rental patterns and customer behavior to provide valuable insights for business optimization.  
 
-### **[MovieRentalShop](https://github.com/F7-bit/MovieRentalShop-AnalyticsProject)** 🎥
-A SQL-based project focusing on movie rental shop data. I utilize SQL queries to analyze rental patterns and customer behavior, providing valuable insights to improve business operations.
+### 🏠 AirBnB Regulation Analysis  
+A **Python-driven** analysis of AirBnB regulations, exploring market trends, pricing patterns, and policy impacts.  
 
-## Tech Stack ⚙️
+### ❤️ Heart Disease Analysis
+A **Python project** focused on analyzing heart disease datasets. Using data visualization and statistical analysis, the goal is to uncover key health risk factors and insights.
 
-- **MySQL**: Advanced querying for data analysis
-- **Excel**: Dashboard creation and data visualization
-- **Data Analysis**: Exploring datasets and deriving insights
+---
 
-## Goals 🎯
+## ⚙️ Tech Stack  
+- **Python** 🐍 – Data analysis, visualization, automation  
+- **SQL (MySQL, PostgreSQL)** 🛢️ – Advanced queries, database management  
+- **Excel** 📊 – Dashboard creation, data manipulation  
+- **Data Visualization** 📉 – Matplotlib, Seaborn, Power BI  
 
-- Enhance my proficiency in data analytics and data manipulation
-- Build impactful data visualization tools
-- Develop a well-rounded portfolio of data-driven projects
+---
 
-## Fun Fact⚡
-I love exploring the intersection of data and storytelling, using insights to craft narratives that drive decisions
+## 🎯 Goals  
+✔ Enhance my proficiency in data analytics and manipulation  
+✔ Build impactful data visualization tools  
+✔ Develop a well-rounded portfolio of **data-driven projects**  
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaborations in mind!
+---
 
+## 🔥 Fun Fact  
+I love **exploring the intersection of data and storytelling**, using insights to craft narratives that **drive real-world decisions**!  
 
+📬 **Let's Connect!**  
+- **GitHub:** [F7-bit](https://github.com/F7-bit)  
+- **LinkedIn:** [Fahedloni](https://www.linkedin.com/in/fahedloni/)  
+
+Feel free to explore my repositories, and let’s connect for **questions or collaborations**! 🚀  
