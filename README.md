@@ -30,7 +30,7 @@ A **Python project** focused on analyzing heart disease datasets. Using data vis
 - **Python** 🐍 – Data analysis, visualization, automation  
 - **SQL (MySQL, PostgreSQL)** 🛢️ – Advanced queries, database management  
 - **Excel** 📊 – Dashboard creation, data manipulation  
-- **Data Visualization** 📉 – Matplotlib, Seaborn, Power BI  
+- **Data Visualization** 📉 – Matplotlib, Seaborn, Power BI, Tableau
 
 ---
 
