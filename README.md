@@ -54,6 +54,9 @@ I’m a curious data enthusiast who loves diving into datasets and finding the s
 - **[Champions-League-Insights](https://github.com/F7-bit/Champions-League-Insights)**  
   A Tableau dashboard exploring UEFA Champions League stats with interactive visuals on players, coaches, clubs, and country dominance over the years.
 
+- **[Retail-Insights-Tableau](https://github.com/F7-bit/Retail-Insights-Tableau)**
+  A Tableau-driven executive dashboard offering insights into retail KPIs, sales targets, regional performance, and product profitability.
+
 ---
 
 ## 🎯 Goals
