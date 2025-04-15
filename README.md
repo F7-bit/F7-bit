@@ -18,13 +18,13 @@ I’m a curious data enthusiast who loves diving into datasets and finding the s
 - [AirBnB Regulation Analysis](https://github.com/F7-bit/AirBnB-Regulation-Analysis)  
   Analyzing short-term rental listings to explore regulatory impacts and trends.
 
-- [Heart Disease Analysis](https://github.com/F7-bit/Heart-Disease-Analysis)  
+- [Heart Disease Analysis](https://github.com/F7-bit/HeartDiseaseRisk-Analysis)  
   A data-driven project exploring patterns in heart disease without using ML libraries.
 
 ---
 
 ### 🧮 Excel Projects
-- [Coffee Sales Dashboard](https://github.com/F7-bit/Coffee-Sales-Dashboard)  
+- [Coffee Sales Dashboard](https://github.com/F7-bit/CoffeeShopSales-Analytics)  
   An Excel dashboard visualizing coffee shop sales, trends, and KPIs.
 
 - [SupermarketSales-Analytics](https://github.com/F7-bit/SupermarketSales-Analytics)  
@@ -33,10 +33,10 @@ I’m a curious data enthusiast who loves diving into datasets and finding the s
 ---
 
 ### 🛢 SQL Projects
-- [SocialEngage-Analytics](https://github.com/F7-bit/SocialEngage-Analytics)  
+- [SocialEngage-Analytics](https://github.com/F7-bit/SocialMediaEngagement-Analytics)  
   Analyzing user engagement metrics from a social media platform using advanced SQL queries.
 
-- [Movie Rental Shop Analytics](https://github.com/F7-bit/Movie-Rental-Shop-Analytics)  
+- [Movie Rental Shop Analytics](https://github.com/F7-bit/MovieRentalShop-AnalyticsProject)  
   SQL project exploring customer rental patterns, revenue insights, and store performance.
 
 ---
