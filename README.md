@@ -1,51 +1,79 @@
-# 👋 Hello! I'm Fahed  
-Welcome to my GitHub profile! 🚀  
+## 👋 Hi, I'm Fahed
 
-I'm a **passionate data enthusiast** focused on refining my skills in **data analysis, SQL, and dashboard creation**. My journey involves working on multiple projects that transform raw data into meaningful insights.  
-
----
-
-## 📌 Projects  
-### 🌐 [SocialEngage-Analytics](https://github.com/F7-bit/SocialMediaEngagement-Analytics)  
-A self-guided **MySQL** project analyzing user engagement data from social platforms. Using advanced queries, I extract actionable insights to optimize reporting and decision-making.  
-
-### ☕ [Coffee Sales Dashboard](https://github.com/F7-bit/CoffeeShopSales-Analytics)  
-A **Excel-based** dynamic dashboard for coffee shop sales analysis. This project involves gathering sales data, visualizing trends, and helping stakeholders make data-driven decisions.  
-
-### 🛒 [SupermarketSales-Analytics](https://github.com/F7-bit/SupermarketSales-Analytics)  
-A **Excel-powered** project analyzing supermarket sales data to uncover trends and generate key insights that drive business strategies.  
-
-### 🎥 [Movie Rental Shop Analytics](https://github.com/F7-bit/MovieRentalShop-AnalyticsProject)  
-A **SQL-based** project that explores rental patterns and customer behavior to provide valuable insights for business optimization.  
-
-### 🏠 [AirBnB Regulation Analysis](https://github.com/F7-bit/AirBnB-Regulation-Analysis)  
-A **Python-driven** analysis of AirBnB regulations, exploring market trends, pricing patterns, and policy impacts.  
-
-### ❤️ [Heart Disease Analysis](https://github.com/F7-bit/HeartDiseaseRisk-Analysis)
-A **Python project** focused on analyzing heart disease datasets. Using data visualization and statistical analysis, the goal is to uncover key health risk factors and insights.
+I’m a curious data enthusiast who loves diving into datasets and finding the stories they tell. With tools like SQL, Python, Excel, Power BI, and Tableau, I build projects that turn messy data into meaningful insights.
 
 ---
 
-## ⚙️ Tech Stack  
-- **Python** 🐍 – Data analysis, visualization, automation  
-- **SQL (MySQL, PostgreSQL)** 🛢️ – Advanced queries, database management  
-- **Excel** 📊 – Dashboard creation, data manipulation  
-- **Data Visualization** 📉 – Matplotlib, Seaborn, Power BI, Tableau
+## 🔧 Technical Skills
+
+- **Languages & Tools:** Python, SQL, Excel, Power BI, Tableau  
+- **Libraries & Tech:** pandas, matplotlib, seaborn, NumPy  
+- **Focus Areas:** Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboarding, Business Intelligence
 
 ---
 
-## 🎯 Goals  
-✔ Enhance my proficiency in data analytics and manipulation  
-✔ Build impactful data visualization tools  
-✔ Develop a well-rounded portfolio of **data-driven projects**  
+## 📂 Projects
+
+### 🐍 Python Projects
+- [AirBnB Regulation Analysis](https://github.com/F7-bit/AirBnB-Regulation-Analysis)  
+  Analyzing short-term rental listings to explore regulatory impacts and trends.
+
+- [Heart Disease Analysis](https://github.com/F7-bit/Heart-Disease-Analysis)  
+  A data-driven project exploring patterns in heart disease without using ML libraries.
 
 ---
 
-## 🔥 Fun Fact  
-I love **exploring the intersection of data and storytelling**, using insights to craft narratives that **drive real-world decisions**!  
+### 🧮 Excel Projects
+- [Coffee Sales Dashboard](https://github.com/F7-bit/Coffee-Sales-Dashboard)  
+  An Excel dashboard visualizing coffee shop sales, trends, and KPIs.
 
-📬 **Let's Connect!**  
-- **GitHub:** [F7-bit](https://github.com/F7-bit)  
-- **LinkedIn:** [Fahedloni](https://www.linkedin.com/in/fahedloni/)  
+- [SupermarketSales-Analytics](https://github.com/F7-bit/SupermarketSales-Analytics)  
+  Sales insights from supermarket data, built using Excel pivot tables and charts.
 
-Feel free to explore my repositories, and let’s connect for **questions or collaborations**! 🚀  
+---
+
+### 🛢 SQL Projects
+- [SocialEngage-Analytics](https://github.com/F7-bit/SocialEngage-Analytics)  
+  Analyzing user engagement metrics from a social media platform using advanced SQL queries.
+
+- [Movie Rental Shop Analytics](https://github.com/F7-bit/Movie-Rental-Shop-Analytics)  
+  SQL project exploring customer rental patterns, revenue insights, and store performance.
+
+---
+
+### 📊 Power BI Projects
+- **[PowerBI-Sales-Dashboard](https://github.com/F7-bit/PowerBI-Sales-Dashboard)**  
+  An interactive Power BI dashboard showcasing revenue, profit trends, and market performance with clear, data-driven storytelling.
+
+- **[AdventureWorks-SalesInsights](https://github.com/F7-bit/AdventureWorks-SalesInsights)**  
+  An interactive Power BI dashboard analyzing AdventureWorks’ revenue, profit, product performance, and customer behavior with a business-friendly interface.
+
+---
+
+### 📈 Tableau Projects
+- **[Champions-League-Insights](https://github.com/F7-bit/Champions-League-Insights)**  
+  A Tableau dashboard exploring UEFA Champions League stats with interactive visuals on players, coaches, clubs, and country dominance over the years.
+
+---
+
+## 🎯 Goals
+
+- 📌 Land a data analyst role where I can turn business questions into insights  
+- 📌 Keep building real-world projects with diverse datasets  
+- 📌 Earn Power BI and Tableau certifications  
+- 📌 Start blogging about data tips and mini case studies
+
+---
+
+## 🎉 Fun Fact
+
+I once built a full Tableau dashboard tracking Champions League stats just to settle a debate with friends over who really had the best season — spoiler: the data never lies ⚽📊
+
+---
+
+## 🤝 Let's Connect
+  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fahed7)  
+- 📫 Reach me: **fahedloni@gmail.com**
+
+---
